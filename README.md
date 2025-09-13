@@ -151,7 +151,3 @@ project/
 Contributions are welcome! If you have ideas to make the project better, please feel free to fork the repository and make a pull request.
 
 ---
-
-## 📄 License
-
-This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the [LICENSE](LICENSE) file for more details.
